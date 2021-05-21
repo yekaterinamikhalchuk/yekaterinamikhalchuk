@@ -15,7 +15,7 @@
 
 ### How to reach me:
 [![Telegram](https://img.shields.io/badge/-Telegram-41435B?style=for-the-badge&logo=Telegram)](https://t.me/yeyekaterina)  [![E-mail](https://img.shields.io/badge/-email-41435B?style=for-the-badge&logo=yandex&Logocolor=E00484)]()
-[![hh](https://img.shields.io/badge/-headhunter-41435B?style=for-the-badge&logo=headhunter)](https://hh.ru/mobile?from=share_ios)
+[![hh](https://img.shields.io/badge/-headhunter-41435B?style=for-the-badge&logo=headhunter)](https://hh.ru/resume/5cc91ea2ff0890f6f10039ed1f517277686a52)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-41435B?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/ekaterina-mikhalchuk-171aba20b/) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-41435B?style=for-the-badge&logo=WhatsApp)](https://wa.me/79166334361)
 
 
