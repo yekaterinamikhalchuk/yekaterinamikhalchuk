@@ -14,9 +14,9 @@
 ![Linear algebra](https://img.shields.io/badge/-LinearAlgebra-3C3E47?style=for-the-badge&logo=MachineLearning) ![a/bTesting](https://img.shields.io/badge/-a/b_Testing-3C3E47?style=for-the-badge&logo=MachineLearning) 
 
 ### How to reach me:
-[![Telegram](https://img.shields.io/badge/-Telegram-41435B?style=for-the-badge&logo=Telegram)](https://t.me/yeyekaterina)  [![E-mail](https://img.shields.io/badge/-email-41435B?style=for-the-badge&logo=yandex&Logocolor=E00484)](href="mailto:mikhalchuk.e.s@ya.ru")
+[![Telegram](https://img.shields.io/badge/-Telegram-41435B?style=for-the-badge&logo=Telegram)](https://t.me/yeyekaterina)  [![E-mail](https://img.shields.io/badge/-email-41435B?style=for-the-badge&logo=yandex&Logocolor=E00484)](<a href="mailto:mikhalchuk.e.s@ya.ru"</a>)
 [![hh](https://img.shields.io/badge/-headhunter-41435B?style=for-the-badge&logo=headhunter)](https://hh.ru/mobile?from=share_ios)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-41435B?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/ekaterina-mikhalchuk-171aba20b/) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-41435B?style=for-the-badge&logo=WhatsApp)](https://wa.me/<79166334361>)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-41435B?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/ekaterina-mikhalchuk-171aba20b/) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-41435B?style=for-the-badge&logo=WhatsApp)](https://wa.me/79166334361)
 
 
 
