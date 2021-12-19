@@ -3,7 +3,7 @@
 ## I'm a Junior Python Developer 
 - ❤️ in love with coding
 - :computer: interested in development
-- 👨‍💻 working as a data scientist
+- 👨‍💻 currently working as a data scientist
 - :eyes: eager to work on python development projects
 ### Languages and Tools
 
