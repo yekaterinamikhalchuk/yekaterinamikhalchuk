@@ -1,6 +1,6 @@
 
 
-## I'm a Junior Data Scientist 
+## I'm a Junior Python Developer 
 - ❤️ in love with coding
 - :computer: interested in development
 - 👨‍💻 working as a data scientist
