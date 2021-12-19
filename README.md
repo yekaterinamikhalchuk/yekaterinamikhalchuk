@@ -1,7 +1,8 @@
 
 
 ## I'm a Junior Data Scientist 
-- 🧐 interested in data science & data analysis
+- ❤️ in love with coding
+- 🧐 interested in development
 - :computer: learning DS at the moment
 - :eyes: eager to work on data science and data analysis projects
 ### Languages and Tools
