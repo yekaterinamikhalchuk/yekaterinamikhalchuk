@@ -2,9 +2,9 @@
 
 ## I'm a Junior Data Scientist 
 - ❤️ in love with coding
-- 🧐 interested in development
-- :computer: learning DS at the moment
-- :eyes: eager to work on data science and data analysis projects
+- :computer: interested in development
+- :work: working as a data scientist
+- :eyes: eager to work on python development projects
 ### Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-3C3E47?style=for-the-badge&logo=python&Logocolor=3F7BAA)  ![Pandas](https://img.shields.io/badge/-Pandas-3C3E47?style=for-the-badge&logo=Pandas&Logocolor=E00484)
