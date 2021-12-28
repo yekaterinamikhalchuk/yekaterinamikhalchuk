@@ -4,7 +4,7 @@
 - ❤️ in love with coding
 - :computer: interested in development
 - 👨‍💻 currently working as a data scientist
-- :eyes: eager to work on python development projects
+
 ### Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-3C3E47?style=for-the-badge&logo=python&Logocolor=3F7BAA)  ![Pandas](https://img.shields.io/badge/-Pandas-3C3E47?style=for-the-badge&logo=Pandas&Logocolor=E00484)
