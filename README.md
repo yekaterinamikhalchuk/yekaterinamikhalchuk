@@ -1,6 +1,6 @@
 
 
-## I'm a Junior Python Developer 
+
 - ❤️ in love with coding
 - :computer: interested in development
 - 👨‍💻 currently working as a data scientist
