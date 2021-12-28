@@ -15,5 +15,5 @@
 
 ### How to reach me:
 <a href="mailto:mikhalchuk.e.s@yandex.ru">![E-mail](https://img.shields.io/badge/-email-41435B?style=for-the-badge&logo=yandex&Logocolor=E00484) </a>[![Telegram](https://img.shields.io/badge/-Telegram-41435B?style=for-the-badge&logo=Telegram)](https://t.me/yeyekaterina) 
-[![hh](https://img.shields.io/badge/-headhunter-41435B?style=for-the-badge&logo=)](https://hh.ru/resume/5cc91ea2ff0890f6f10039ed1f517277686a52)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-41435B?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/ekaterina-mikhalchuk-171aba20b/) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-41435B?style=for-the-badge&logo=WhatsApp)](https://wa.me/79166334361) 
